@@ -1686,3 +1686,9 @@ justify-content:flex-start;
     }
     
 }
+
+@media screen and (min-width:741px){
+    .extrasUrls{
+        display:none  !important;
+    }
+}
